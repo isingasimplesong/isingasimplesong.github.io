@@ -18,14 +18,13 @@ email: mathieu@400iso.net
 description: >- # this means to ignore newlines until "baseurl:"
   Juste un blog personel
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://400iso.net" # the base hostname & protocol for your site, e.g. http://example.com
 domain: 400iso.net
-  #twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://400iso.net" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  isingasimplesong
 
 # Build settings
 markdown: kramdown
-theme: pages-themes/slate@v0.2.0
+theme: minima
 plugins:
   - jekyll-feed
   - jekyl-remote-theme
