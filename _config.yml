@@ -28,9 +28,9 @@ markdown: kramdown
 theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
-    #  - jekyl-remote-theme
+  - jekyl-remote-theme
 
-#remote_theme: pages-themes/slate@v0.2.0
+remote_theme: pages-themes/slate@v0.2.0
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
